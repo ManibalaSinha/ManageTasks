@@ -64,4 +64,10 @@ Thumbs.db
 
 # Logs
 *.log
+<<<<<<< HEAD
 >>>>>>> f1fca37 (test)
+=======
+#macOS system files
+.DS_Store
+**/ .DS_Store
+>>>>>>> 62c06e8 (test)
