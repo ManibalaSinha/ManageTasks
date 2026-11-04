@@ -1,3 +1,4 @@
+
 # Virtual environments
 .venv/
 venv/
@@ -19,3 +20,48 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+# Environment files
+*.env
+.env.*
+.env
+/.env
+env/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.venv/
+tests/__pycache__/
+# Python virtual environments
+/.venv2/
+/.venv/
+/.venv-1
+/.venv1
+venv/
+# OS
+.DS_Store
+# IDE
+.vscode/
+.idea/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+>>>>>>> f1fca37 (test)
